@@ -1,6 +1,8 @@
 # VIRTUAL-MACHINES-
-EX 6: MOVING FILES BETWEEN VIRTUAL MACHINES
+## EX 6: MOVING FILES BETWEEN VIRTUAL MACHINES
+## NAME: SUDHARSAN S
 
+## REG NO: 212224040335
 Aim:
 To move the files between virtual machine.
  You can move files between virtual machines in several ways:
